@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.tittlecard{
+    text-align: center;
+    background-color: #0052A1;
+    width: fit-content;
+    color: white;
+}
+.card-body{
+    background-color: #0051A0;
+}
+.card{
+    background-color: #F2E4CF;
+}
+.button1{
+    width: fit-content;
+}
+.special-card{
+    background-color: #F2E4CF;
+}
+.cardtitle1{
+    color: #0052A1;
+}
+.cardtitle2{
+    color: #ED1B24;
+}
+.bg1{
+    background-color: #0F3375;
+}
+.discription{
+    border: solid 2px white;
+    border-style: dashed;
+    width: fit-content;
+    margin: auto;
+}
+input{
+    width: 100%;
+    border: 0;
+    border-bottom: solid 1px rgb(109, 108, 108);
+}
+textarea{
+    width: 100% ;
+    border: 0;
+    border-bottom: solid 1px rgb(109, 108, 108);    
+}
+#Capch{
+    width: 30%;
+    border: 1px solid black;
+}
+#nav-home:hover{
+    color: #ED1B24;
+}
+#nav-about-us:hover{
+    color: #ED1B24;
+}
+#nav-products:hover{
+    color: #ED1B24;
+}#nav-contactus:hover{
+    color: #ED1B24;
+}
